@@ -1,0 +1,28 @@
+/*.face {
+  width: 20px;
+  height: 20px;
+  background-color: yellow;
+}*/
+.products {
+    padding: 15px;
+    border: 1px solid #ccc;
+    margin-bottom: 15px;
+}
+.products span{
+	display: inline-block;
+	min-width: 75px;
+	font-weight: 600;
+	margin-bottom: 10px;
+}
+.facesBx {
+    background-color: yellow;
+    border-radius: 100%;
+    text-align: center;
+    line-height: normal;
+    justify-content: center;
+    display: flex !important;
+    align-items: center;
+    min-width: inherit !important;
+    overflow: hidden;
+    margin: 0 auto 10px;
+}

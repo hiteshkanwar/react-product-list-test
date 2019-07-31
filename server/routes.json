@@ -1,0 +1,5 @@
+{
+    "/api/": "/",
+    "/path/": "http://localhost:3000",
+    "/products/": "/api/products"
+}
